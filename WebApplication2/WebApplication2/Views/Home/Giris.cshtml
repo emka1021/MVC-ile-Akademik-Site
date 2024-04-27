@@ -1,0 +1,108 @@
+﻿
+@{
+    ViewBag.Title = "Giris";
+    Layout = "~/Views/Shared/Login.cshtml";
+}
+
+    <style>
+
+
+        body {
+            background-color: #1a1a1a;
+            font-family: "Times New Roman", Times, serif;
+            padding-top: 40px;
+        }
+
+        .login-form {
+            width: 400px;
+            margin: 0 auto;
+        }
+
+            .login-form form {
+                margin-bottom: 15px;
+                background: #f9f6f0;
+                padding: 30px;
+                border-radius: 20px;
+                box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+            }
+
+            .login-form h2 {
+                margin: 0 0 20px;
+                color: #4e3629;
+                font-size: 28px;
+                text-align: center;
+            }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-control {
+            width: 100%;
+            height: 48px;
+            padding: 10px;
+            font-size: 18px;
+            border: 1px solid #b7a69e;
+            border-radius: 10px;
+            transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+        }
+
+            .form-control:focus {
+                border-color: #8c6d5f;
+                outline: 0;
+                box-shadow: 0 0 0 0.2rem rgba(140, 109, 95, 0.25);
+            }
+
+        .btn {
+            width: 100%;
+            height: 48px;
+            font-size: 20px;
+            font-weight: bold;
+            color: #ffffff;
+            background-color: #4e3629;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: background-color 0.15s ease-in-out;
+        }
+
+            .btn:hover {
+                background-color: #704a39;
+            }
+
+        .alert {
+            padding: 15px;
+            margin-bottom: 20px;
+            border: 1px solid transparent;
+            border-radius: 10px;
+        }
+
+        .alert-danger {
+            color: #721c24;
+            background-color: #f8d7da;
+            border-color: #f5c6cb;
+        }
+
+
+    </style>
+
+    <div  class="login-form">
+        <form action="@Url.Action("Giris", "Home")" method="post">
+            <h2 class="text-center">Müdür Giriş</h2>
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                <input type="text" class="form-control" name="kullaniciAdi" placeholder="Kullanıcı Adı" required="required">
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-control" name="sifre" placeholder="Şifre" required="required">
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary btn-block">Giriş Yap</button>
+            </div>
+            @if (ViewBag.ErrorMessage != null)
+            {
+                <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+            }
+        </form>
+    </div>
+

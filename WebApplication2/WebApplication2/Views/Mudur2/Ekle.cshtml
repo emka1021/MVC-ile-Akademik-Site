@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Ekle";
+    Layout = "~/Views/Shared/View.cshtml";
+}
+
+<form class="form-group" method="post">
+    <div>
+        <label>Personel Adı</label>
+        <input type="text" class="form-control" name="perad" />
+    </div>
+    <div>
+        <label>Birimi</label>
+        <input type="text" class="form-control" name="perbolum" />
+    </div>
+    <div>
+        <label>Başlangıç Tarihi</label>
+        <input type="text" class="form-control" name="perbas" />
+    </div>
+    <div>
+        <label>Ayrılış Tarihi </label>
+        <input type="text" class="form-control" name="perbit" />
+    </div>
+    <div>
+        <button type="submit" style="margin:15px" class="btn btn-info">Personel Ekle</button>
+    </div>
+</form>

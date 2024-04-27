@@ -1,0 +1,34 @@
+﻿@model WebApplication2.Models.Entity.tbl_ogrenci
+@{
+    ViewBag.Title = "Guncelle";
+    Layout = "~/Views/Shared/MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("Guncelle1", "Ogrenci", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.oid)
+        @Html.TextBoxFor(m => m.oid, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.oadı)
+        @Html.TextBoxFor(m => m.oadı, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.ono)
+        @Html.TextBoxFor(m => m.ono, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.obolum)
+        @Html.TextBoxFor(m => m.obolum, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.okredi)
+        @Html.TextBoxFor(m => m.okredi, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.odurum)
+        @Html.TextBoxFor(m => m.odurum, new { @class = "form-control" })
+
+    </div>
+    <div>
+        <button class="btn btn-warning">Güncelle</button>
+    </div>
+}
+
+

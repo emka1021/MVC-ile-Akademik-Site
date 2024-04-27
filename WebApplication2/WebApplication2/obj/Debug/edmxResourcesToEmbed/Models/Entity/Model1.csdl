@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbo_ogrenciModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tbl_idare">
+    <Key>
+      <PropertyRef Name="pid" />
+    </Key>
+    <Property Name="pid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="perad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="perbolum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="perbas" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="perbit" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tbl_ogrenci">
+    <Key>
+      <PropertyRef Name="oid" />
+    </Key>
+    <Property Name="oid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="oadı" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ono" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="obolum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="okredi" Type="Int32" />
+    <Property Name="odurum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tbl_ogretmenler">
+    <Key>
+      <PropertyRef Name="ogid" />
+    </Key>
+    <Property Name="ogid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ogad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ogbolum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ogbas" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ogbit" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tbl_personel">
+    <Key>
+      <PropertyRef Name="personelid" />
+    </Key>
+    <Property Name="personelid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="personelad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="personelkulad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="personelsifre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tbl_rapor">
+    <Key>
+      <PropertyRef Name="rid" />
+    </Key>
+    <Property Name="rid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kisiad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="kisibilgi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tbl_rapor1">
+    <Key>
+      <PropertyRef Name="rid" />
+    </Key>
+    <Property Name="rid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kisiad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="kisibilgi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="kisibas" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="kisibit" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="dbo_ogrenciEntities4" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbl_idare" EntityType="Self.tbl_idare" />
+    <EntitySet Name="tbl_ogrenci" EntityType="Self.tbl_ogrenci" />
+    <EntitySet Name="tbl_ogretmenler" EntityType="Self.tbl_ogretmenler" />
+    <EntitySet Name="tbl_personel" EntityType="Self.tbl_personel" />
+    <EntitySet Name="tbl_rapor" EntityType="Self.tbl_rapor" />
+    <EntitySet Name="tbl_rapor1" EntityType="Self.tbl_rapor1" />
+  </EntityContainer>
+</Schema>

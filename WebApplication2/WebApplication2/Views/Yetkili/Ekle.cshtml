@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Ekle";
+    Layout = "~/Views/Shared/View.cshtml";
+}
+
+
+<form class="form-group" method="post">
+    <div>
+        <label>Kişi Adı</label>
+        <input type="text" class="form-control" name="personelad" />
+    </div>
+    <div>
+        <label>Kullanıcı Adı</label>
+        <input type="text" class="form-control" name="personelkulad" />
+    </div>
+    <div>
+        <label>Şifre</label>
+        <input type="text" class="form-control" name="personelsifre" />
+    </div>
+
+    <div>
+        <button type="submit" style="margin:15px" class="btn btn-info">Kişi Ekle</button>
+    </div>
+
+</form>

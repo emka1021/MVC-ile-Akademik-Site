@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\shared\\mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|c:\\users\\06emk\\onedrive\\desktop\\webapplication2\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\controllers\\mudur1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\mudur1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\controllers\\mudurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\mudurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\controllers\\mudur3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\mudur3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\controllers\\mudur2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\mudur2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\akademi\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\akademi\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\home\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\controllers\\akademicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\akademicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|c:\\users\\06emk\\onedrive\\desktop\\webapplication2\\webapplication2\\views\\personel\\personel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\personel\\personel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\yetkili\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\yetkili\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur3\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur3\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur3\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur3\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur2\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur2\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur2\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur2\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur1\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur1\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur1\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur1\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur\\mezunet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur\\mezunet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur\\ogrencibilgi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur\\ogrencibilgi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\mudur\\yenktegori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\mudur\\yenktegori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\ogrenci\\mezuntet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\ogrenci\\mezuntet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\ogrenci\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\ogrenci\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\ogrenci\\yenktegori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\ogrenci\\yenktegori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\ogrenci\\ogrencibilgi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\ogrenci\\ogrencibilgi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\rapor\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\rapor\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\rapor\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\rapor\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\rapor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\rapor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\controllers\\raporcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\raporcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\controllers\\yetkilicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\yetkilicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\idari\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\idari\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\idari\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\idari\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\idari\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\idari\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\controllers\\idaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\idaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\akademi\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\akademi\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\akademi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\akademi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\yetkili\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\yetkili\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\yetkili\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\yetkili\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\webapplication2\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9D23FD-DD97-4078-9944-C6F0A5ADBC0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:26:12.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mudur1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\Mudur1Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\Mudur1Controller.cs",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\Mudur1Controller.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\Mudur1Controller.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwCYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:06:36.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Shared\\MainLayout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Shared\\MainLayout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\MainLayout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T21:24:00.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:13:39.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MudurController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\MudurController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\MudurController.cs",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\MudurController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\MudurController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:06:14.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mudur3Controller.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\Mudur3Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\Mudur3Controller.cs",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\Mudur3Controller.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\Mudur3Controller.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:07:09.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mudur2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\Mudur2Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\Mudur2Controller.cs",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\Mudur2Controller.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\Mudur2Controller.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:06:53.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Shared\\View.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\View.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Shared\\View.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\View.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:08:12.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Akademi\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Akademi\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Akademi\\Ekle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Akademi\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T19:35:07.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:00:33.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Giris.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Home\\Giris.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Giris.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Home\\Giris.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Giris.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAswGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:03:17.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Personel.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Personel\\Personel.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Personel\\Personel.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Personel\\Personel.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Personel\\Personel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:28:24.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Yetkili\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Yetkili\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Yetkili\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Yetkili\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:09:05.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:10:05.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AkademiController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\AkademiController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AkademiController.cs",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\AkademiController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AkademiController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:17:21.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Shared\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\Login.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Shared\\Login.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:02:40.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur3\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur3\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur3\\Ekle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur3\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:25:37.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur3\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur3\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur3\\Guncelle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur3\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:25:52.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur3\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur3\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur3\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur3\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:24:16.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur2\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur2\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur2\\Ekle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur2\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:20:36.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur2\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur2\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur2\\Guncelle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur2\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:20:46.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur2\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur2\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur2\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur2\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:12:27.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur1\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur1\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur1\\Ekle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur1\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:14:09.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur1\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur1\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur1\\Guncelle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur1\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:17:42.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur1\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur1\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:09:14.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur\\Guncelle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:33:24.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MezunEt.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur\\MezunEt.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur\\MezunEt.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur\\MezunEt.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur\\MezunEt.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:33:56.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OgrenciBilgi.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur\\OgrenciBilgi.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur\\OgrenciBilgi.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur\\OgrenciBilgi.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur\\OgrenciBilgi.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:32:38.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "YenKtegori.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur\\YenKtegori.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Mudur\\YenKtegori.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Mudur\\YenKtegori.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Mudur\\YenKtegori.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:32:55.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Personel\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Personel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Personel\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Personel\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T01:41:46.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Ogrenci\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Ogrenci\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Ogrenci\\Guncelle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Ogrenci\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T21:31:01.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "YenKtegori.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Ogrenci\\YenKtegori.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Ogrenci\\YenKtegori.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Ogrenci\\YenKtegori.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Ogrenci\\YenKtegori.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:07:52.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OgrenciBilgi.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Ogrenci\\OgrenciBilgi.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Ogrenci\\OgrenciBilgi.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Ogrenci\\OgrenciBilgi.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Ogrenci\\OgrenciBilgi.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T15:19:09.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MezuntEt.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Ogrenci\\MezuntEt.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Ogrenci\\MezuntEt.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Ogrenci\\MezuntEt.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Ogrenci\\MezuntEt.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T02:55:26.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\OgrenciController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:13:52.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Rapor\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Rapor\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Rapor\\Guncelle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Rapor\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T22:40:18.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Rapor\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Rapor\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Rapor\\Ekle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Rapor\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T19:46:14.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Rapor\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Rapor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Rapor\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Rapor\\Index.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:17:28.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RaporController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\RaporController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\RaporController.cs",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\RaporController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\RaporController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:13:48.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "YetkiliController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\YetkiliController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\YetkiliController.cs",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\YetkiliController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\YetkiliController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T23:59:33.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PersonelController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\PersonelController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\PersonelController.cs",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\PersonelController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\PersonelController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:17:10.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Idari\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Idari\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Idari\\Guncelle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Idari\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T22:30:24.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Idari\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Idari\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Idari\\Ekle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Idari\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T19:39:10.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IdariController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\IdariController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\IdariController.cs",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\IdariController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\IdariController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:17:19.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Akademi\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Akademi\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Akademi\\Guncelle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Akademi\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T22:16:22.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Idari\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Idari\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Idari\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Idari\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T15:20:26.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Akademi\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Akademi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Akademi\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Akademi\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T15:58:30.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Models\\Entity\\Model1.edmx",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Entity\\Model1.edmx",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WebApplication2\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-04-27T02:01:26.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Yetkili\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Yetkili\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Yetkili\\Guncelle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Yetkili\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:55:07.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Yetkili\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Yetkili\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Yetkili\\Ekle.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Yetkili\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:35:37.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\OneDrive\\Desktop\\WebApplication2\\WebApplication2\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T15:58:28.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

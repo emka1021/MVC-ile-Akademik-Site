@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="dbo_ogrenciModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="tbl_idare">
+          <Key>
+            <PropertyRef Name="pid" />
+          </Key>
+          <Property Name="pid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="perad" Type="varchar" MaxLength="50" />
+          <Property Name="perbolum" Type="varchar" MaxLength="50" />
+          <Property Name="perbas" Type="varchar" MaxLength="50" />
+          <Property Name="perbit" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6013: The table/view 'dbo_ogrenci.dbo.tbl_mudur' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="tbl_mudur">
+          <Property Name="mudurad" Type="varchar" MaxLength="50" />
+          <Property Name="mudursifre" Type="varchar" MaxLength="50" />
+        </EntityType>-->
+        <!--Errors Found During Generation:
+warning 6013: The table/view 'dbo_ogrenci.dbo.tbl_mudur1' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="tbl_mudur1">
+          <Property Name="mudurad" Type="varchar" MaxLength="50" />
+          <Property Name="mudursifre" Type="varchar" MaxLength="50" />
+        </EntityType>-->
+        <!--Errors Found During Generation:
+warning 6013: The table/view 'dbo_ogrenci.dbo.tbl_mudur2' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="tbl_mudur2">
+          <Property Name="mudurad" Type="varchar" MaxLength="50" />
+          <Property Name="mudursifre" Type="varchar" MaxLength="50" />
+        </EntityType>-->
+        <EntityType Name="tbl_ogrenci">
+          <Key>
+            <PropertyRef Name="oid" />
+          </Key>
+          <Property Name="oid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="oadı" Type="varchar" MaxLength="50" />
+          <Property Name="ono" Type="varchar" MaxLength="50" />
+          <Property Name="obolum" Type="varchar" MaxLength="50" />
+          <Property Name="okredi" Type="int" />
+          <Property Name="odurum" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="tbl_ogretmenler">
+          <Key>
+            <PropertyRef Name="ogid" />
+          </Key>
+          <Property Name="ogid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ogad" Type="varchar" MaxLength="50" />
+          <Property Name="ogbolum" Type="varchar" MaxLength="50" />
+          <Property Name="ogbas" Type="varchar" MaxLength="50" />
+          <Property Name="ogbit" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="tbl_personel">
+          <Key>
+            <PropertyRef Name="personelid" />
+          </Key>
+          <Property Name="personelid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="personelad" Type="varchar" MaxLength="50" />
+          <Property Name="personelkulad" Type="varchar" MaxLength="50" />
+          <Property Name="personelsifre" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="tbl_rapor">
+          <Key>
+            <PropertyRef Name="rid" />
+          </Key>
+          <Property Name="rid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="kisiad" Type="varchar" MaxLength="50" />
+          <Property Name="kisibilgi" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="tbl_rapor1">
+          <Key>
+            <PropertyRef Name="rid" />
+          </Key>
+          <Property Name="rid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="kisiad" Type="varchar" MaxLength="50" />
+          <Property Name="kisibilgi" Type="varchar" MaxLength="50" />
+          <Property Name="kisibas" Type="varchar" MaxLength="50" />
+          <Property Name="kisibit" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityContainer Name="dbo_ogrenciModelStoreContainer">
+          <EntitySet Name="tbl_idare" EntityType="Self.tbl_idare" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_ogrenci" EntityType="Self.tbl_ogrenci" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_ogretmenler" EntityType="Self.tbl_ogretmenler" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_personel" EntityType="Self.tbl_personel" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_rapor" EntityType="Self.tbl_rapor" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_rapor1" EntityType="Self.tbl_rapor1" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="dbo_ogrenciModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="tbl_idare">
+          <Key>
+            <PropertyRef Name="pid" />
+          </Key>
+          <Property Name="pid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="perad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="perbolum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="perbas" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="perbit" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="tbl_ogrenci">
+          <Key>
+            <PropertyRef Name="oid" />
+          </Key>
+          <Property Name="oid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="oadı" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ono" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="obolum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="okredi" Type="Int32" />
+          <Property Name="odurum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="tbl_ogretmenler">
+          <Key>
+            <PropertyRef Name="ogid" />
+          </Key>
+          <Property Name="ogid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ogad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ogbolum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ogbas" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ogbit" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="tbl_personel">
+          <Key>
+            <PropertyRef Name="personelid" />
+          </Key>
+          <Property Name="personelid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="personelad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="personelkulad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="personelsifre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="tbl_rapor">
+          <Key>
+            <PropertyRef Name="rid" />
+          </Key>
+          <Property Name="rid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="kisiad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="kisibilgi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="tbl_rapor1">
+          <Key>
+            <PropertyRef Name="rid" />
+          </Key>
+          <Property Name="rid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="kisiad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="kisibilgi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="kisibas" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="kisibit" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="dbo_ogrenciEntities4" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="tbl_idare" EntityType="Self.tbl_idare" />
+          <EntitySet Name="tbl_ogrenci" EntityType="Self.tbl_ogrenci" />
+          <EntitySet Name="tbl_ogretmenler" EntityType="Self.tbl_ogretmenler" />
+          <EntitySet Name="tbl_personel" EntityType="Self.tbl_personel" />
+          <EntitySet Name="tbl_rapor" EntityType="Self.tbl_rapor" />
+          <EntitySet Name="tbl_rapor1" EntityType="Self.tbl_rapor1" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="dbo_ogrenciModelStoreContainer" CdmEntityContainer="dbo_ogrenciEntities4">
+          <EntitySetMapping Name="tbl_idare">
+            <EntityTypeMapping TypeName="dbo_ogrenciModel.tbl_idare">
+              <MappingFragment StoreEntitySet="tbl_idare">
+                <ScalarProperty Name="pid" ColumnName="pid" />
+                <ScalarProperty Name="perad" ColumnName="perad" />
+                <ScalarProperty Name="perbolum" ColumnName="perbolum" />
+                <ScalarProperty Name="perbas" ColumnName="perbas" />
+                <ScalarProperty Name="perbit" ColumnName="perbit" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_ogrenci">
+            <EntityTypeMapping TypeName="dbo_ogrenciModel.tbl_ogrenci">
+              <MappingFragment StoreEntitySet="tbl_ogrenci">
+                <ScalarProperty Name="oid" ColumnName="oid" />
+                <ScalarProperty Name="oadı" ColumnName="oadı" />
+                <ScalarProperty Name="ono" ColumnName="ono" />
+                <ScalarProperty Name="obolum" ColumnName="obolum" />
+                <ScalarProperty Name="okredi" ColumnName="okredi" />
+                <ScalarProperty Name="odurum" ColumnName="odurum" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_ogretmenler">
+            <EntityTypeMapping TypeName="dbo_ogrenciModel.tbl_ogretmenler">
+              <MappingFragment StoreEntitySet="tbl_ogretmenler">
+                <ScalarProperty Name="ogid" ColumnName="ogid" />
+                <ScalarProperty Name="ogad" ColumnName="ogad" />
+                <ScalarProperty Name="ogbolum" ColumnName="ogbolum" />
+                <ScalarProperty Name="ogbas" ColumnName="ogbas" />
+                <ScalarProperty Name="ogbit" ColumnName="ogbit" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_personel">
+            <EntityTypeMapping TypeName="dbo_ogrenciModel.tbl_personel">
+              <MappingFragment StoreEntitySet="tbl_personel">
+                <ScalarProperty Name="personelid" ColumnName="personelid" />
+                <ScalarProperty Name="personelad" ColumnName="personelad" />
+                <ScalarProperty Name="personelkulad" ColumnName="personelkulad" />
+                <ScalarProperty Name="personelsifre" ColumnName="personelsifre" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_rapor">
+            <EntityTypeMapping TypeName="dbo_ogrenciModel.tbl_rapor">
+              <MappingFragment StoreEntitySet="tbl_rapor">
+                <ScalarProperty Name="rid" ColumnName="rid" />
+                <ScalarProperty Name="kisiad" ColumnName="kisiad" />
+                <ScalarProperty Name="kisibilgi" ColumnName="kisibilgi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_rapor1">
+            <EntityTypeMapping TypeName="dbo_ogrenciModel.tbl_rapor1">
+              <MappingFragment StoreEntitySet="tbl_rapor1">
+                <ScalarProperty Name="rid" ColumnName="rid" />
+                <ScalarProperty Name="kisiad" ColumnName="kisiad" />
+                <ScalarProperty Name="kisibilgi" ColumnName="kisibilgi" />
+                <ScalarProperty Name="kisibas" ColumnName="kisibas" />
+                <ScalarProperty Name="kisibit" ColumnName="kisibit" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,39 @@
+﻿@using WebApplication2.Models.Entity
+@model List<tbl_rapor1>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/View.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>Kişi ID</th>
+        <th>Kişi Adı</th>
+        <th>Kişi Bilgi</th>
+        <th>Başlangıç Tarihi</th>
+        <th>Ayrılış Tarihi</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+
+
+
+    </tr>
+    <tbody>
+        @foreach (var ktgr in Model)
+        {
+            <tr>
+                <td>@ktgr.rid</td>
+                <td>@ktgr.kisiad</td>
+                <td>@ktgr.kisibilgi</td>
+                <td>@ktgr.kisibas</td>
+                <td>@ktgr.kisibit</td>
+
+                <td><a href="/Mudur3/SIL/@ktgr.rid" class="btn btn-danger">SİL</a></td>
+                <td><a href="/Mudur3/Guncelle/@ktgr.rid" class="btn btn-success">GÜNCELLE</a></td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="/Mudur3/Ekle/" class="btn btn-primary">Yeni Kişi Ekle</a>
+

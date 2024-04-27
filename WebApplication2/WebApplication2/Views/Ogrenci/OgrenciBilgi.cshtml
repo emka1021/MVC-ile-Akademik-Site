@@ -1,0 +1,43 @@
+﻿@using WebApplication2.Models.Entity
+@model List<tbl_ogrenci>
+@{
+    ViewBag.Title = "OgrenciBilgi";
+    Layout = "~/Views/Shared/MainLayout.cshtml";
+}
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>Öğrenci ID</th>
+        <th>Öğrenci Adı</th>
+        <th>Öğrenci Numarası</th>
+        <th>Bölüm</th>
+        <th>Kredi Notu</th>
+        <th>Durum</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+        <th>MEZUN</th>
+
+
+    </tr>
+    <tbody>
+        @foreach (var ktgr in Model)
+        {
+            <tr>
+                <td>@ktgr.oid</td>
+                <td>@ktgr.oadı</td>
+                <td>@ktgr.ono</td>
+                <td>@ktgr.obolum</td>
+                <td>@ktgr.okredi</td>
+                <td>@ktgr.odurum</td>
+
+                <td><a href="/OGRENCI/SIL/@ktgr.oid" class="btn btn-danger">SİL</a></td>
+                <td><a href="/OGRENCI/Guncelle/@ktgr.oid" class="btn btn-success">GÜNCELLE</a></td>
+                <td>
+                    @Html.ActionLink("MEZUN ET", "MezunEt", "Ogrenci", null, new { @class = "btn btn-primary bg-info" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="/Ogrenci/YenKtegori/" class="btn btn-primary">Yeni Öğrenci Ekle</a>

@@ -1,0 +1,29 @@
+﻿@model WebApplication2.Models.Entity.tbl_idare
+
+@{
+    ViewBag.Title = "Guncelle";
+    Layout = "~/Views/Shared/View.cshtml";
+}
+
+
+
+@using (Html.BeginForm("Guncelle1", "Mudur2", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.pid)
+        @Html.TextBoxFor(m => m.pid, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.perad)
+        @Html.TextBoxFor(m => m.perad, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.perbolum)
+        @Html.TextBoxFor(m => m.perbolum, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.perbas)
+        @Html.TextBoxFor(m => m.perbas, new { @class = "form-control" })
+
+    </div>
+    <div>
+        <button class="btn btn-warning">Güncelle</button>
+    </div>
+}

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbo_ogrenciModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbl_idare">
+    <Key>
+      <PropertyRef Name="pid" />
+    </Key>
+    <Property Name="pid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="perad" Type="varchar" MaxLength="50" />
+    <Property Name="perbolum" Type="varchar" MaxLength="50" />
+    <Property Name="perbas" Type="varchar" MaxLength="50" />
+    <Property Name="perbit" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'dbo_ogrenci.dbo.tbl_mudur' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="tbl_mudur">
+          <Property Name="mudurad" Type="varchar" MaxLength="50" />
+          <Property Name="mudursifre" Type="varchar" MaxLength="50" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'dbo_ogrenci.dbo.tbl_mudur1' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="tbl_mudur1">
+          <Property Name="mudurad" Type="varchar" MaxLength="50" />
+          <Property Name="mudursifre" Type="varchar" MaxLength="50" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'dbo_ogrenci.dbo.tbl_mudur2' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="tbl_mudur2">
+          <Property Name="mudurad" Type="varchar" MaxLength="50" />
+          <Property Name="mudursifre" Type="varchar" MaxLength="50" />
+        </EntityType>-->
+  <EntityType Name="tbl_ogrenci">
+    <Key>
+      <PropertyRef Name="oid" />
+    </Key>
+    <Property Name="oid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="oadı" Type="varchar" MaxLength="50" />
+    <Property Name="ono" Type="varchar" MaxLength="50" />
+    <Property Name="obolum" Type="varchar" MaxLength="50" />
+    <Property Name="okredi" Type="int" />
+    <Property Name="odurum" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tbl_ogretmenler">
+    <Key>
+      <PropertyRef Name="ogid" />
+    </Key>
+    <Property Name="ogid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ogad" Type="varchar" MaxLength="50" />
+    <Property Name="ogbolum" Type="varchar" MaxLength="50" />
+    <Property Name="ogbas" Type="varchar" MaxLength="50" />
+    <Property Name="ogbit" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tbl_personel">
+    <Key>
+      <PropertyRef Name="personelid" />
+    </Key>
+    <Property Name="personelid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="personelad" Type="varchar" MaxLength="50" />
+    <Property Name="personelkulad" Type="varchar" MaxLength="50" />
+    <Property Name="personelsifre" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tbl_rapor">
+    <Key>
+      <PropertyRef Name="rid" />
+    </Key>
+    <Property Name="rid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kisiad" Type="varchar" MaxLength="50" />
+    <Property Name="kisibilgi" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tbl_rapor1">
+    <Key>
+      <PropertyRef Name="rid" />
+    </Key>
+    <Property Name="rid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kisiad" Type="varchar" MaxLength="50" />
+    <Property Name="kisibilgi" Type="varchar" MaxLength="50" />
+    <Property Name="kisibas" Type="varchar" MaxLength="50" />
+    <Property Name="kisibit" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="dbo_ogrenciModelStoreContainer">
+    <EntitySet Name="tbl_idare" EntityType="Self.tbl_idare" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_ogrenci" EntityType="Self.tbl_ogrenci" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_ogretmenler" EntityType="Self.tbl_ogretmenler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_personel" EntityType="Self.tbl_personel" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_rapor" EntityType="Self.tbl_rapor" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_rapor1" EntityType="Self.tbl_rapor1" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

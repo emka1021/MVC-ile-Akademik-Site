@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbo_ogrenciModelStoreContainer" CdmEntityContainer="dbo_ogrenciEntities4">
+    <EntitySetMapping Name="tbl_idare">
+      <EntityTypeMapping TypeName="dbo_ogrenciModel.tbl_idare">
+        <MappingFragment StoreEntitySet="tbl_idare">
+          <ScalarProperty Name="pid" ColumnName="pid" />
+          <ScalarProperty Name="perad" ColumnName="perad" />
+          <ScalarProperty Name="perbolum" ColumnName="perbolum" />
+          <ScalarProperty Name="perbas" ColumnName="perbas" />
+          <ScalarProperty Name="perbit" ColumnName="perbit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_ogrenci">
+      <EntityTypeMapping TypeName="dbo_ogrenciModel.tbl_ogrenci">
+        <MappingFragment StoreEntitySet="tbl_ogrenci">
+          <ScalarProperty Name="oid" ColumnName="oid" />
+          <ScalarProperty Name="oadı" ColumnName="oadı" />
+          <ScalarProperty Name="ono" ColumnName="ono" />
+          <ScalarProperty Name="obolum" ColumnName="obolum" />
+          <ScalarProperty Name="okredi" ColumnName="okredi" />
+          <ScalarProperty Name="odurum" ColumnName="odurum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_ogretmenler">
+      <EntityTypeMapping TypeName="dbo_ogrenciModel.tbl_ogretmenler">
+        <MappingFragment StoreEntitySet="tbl_ogretmenler">
+          <ScalarProperty Name="ogid" ColumnName="ogid" />
+          <ScalarProperty Name="ogad" ColumnName="ogad" />
+          <ScalarProperty Name="ogbolum" ColumnName="ogbolum" />
+          <ScalarProperty Name="ogbas" ColumnName="ogbas" />
+          <ScalarProperty Name="ogbit" ColumnName="ogbit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_personel">
+      <EntityTypeMapping TypeName="dbo_ogrenciModel.tbl_personel">
+        <MappingFragment StoreEntitySet="tbl_personel">
+          <ScalarProperty Name="personelid" ColumnName="personelid" />
+          <ScalarProperty Name="personelad" ColumnName="personelad" />
+          <ScalarProperty Name="personelkulad" ColumnName="personelkulad" />
+          <ScalarProperty Name="personelsifre" ColumnName="personelsifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_rapor">
+      <EntityTypeMapping TypeName="dbo_ogrenciModel.tbl_rapor">
+        <MappingFragment StoreEntitySet="tbl_rapor">
+          <ScalarProperty Name="rid" ColumnName="rid" />
+          <ScalarProperty Name="kisiad" ColumnName="kisiad" />
+          <ScalarProperty Name="kisibilgi" ColumnName="kisibilgi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_rapor1">
+      <EntityTypeMapping TypeName="dbo_ogrenciModel.tbl_rapor1">
+        <MappingFragment StoreEntitySet="tbl_rapor1">
+          <ScalarProperty Name="rid" ColumnName="rid" />
+          <ScalarProperty Name="kisiad" ColumnName="kisiad" />
+          <ScalarProperty Name="kisibilgi" ColumnName="kisibilgi" />
+          <ScalarProperty Name="kisibas" ColumnName="kisibas" />
+          <ScalarProperty Name="kisibit" ColumnName="kisibit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

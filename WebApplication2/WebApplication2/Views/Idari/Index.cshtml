@@ -1,0 +1,34 @@
+﻿@using WebApplication2.Models.Entity
+@model List<tbl_idare>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/MainLayout.cshtml";
+}
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>Personel ID</th>
+        <th>Personel Adı</th>
+        <th>Bölüm</th>
+        <th>Başlangıç Tarihi</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+    </tr>
+    <tbody>
+        @foreach (var ktgr in Model)
+        {
+            <tr>
+                <th>@ktgr.pid</th>
+                <th>@ktgr.perad</th>
+                <th>@ktgr.perbolum</th>
+                <th>@ktgr.perbas</th>
+
+                <td><a href="/Idari/SIL/@ktgr.pid" class="btn btn-danger">SİL</a></td>
+                <td><a href="/Idari/Guncelle/@ktgr.pid" class="btn btn-success">GÜNCELLE</a></td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="/Idari/Ekle/" class="btn btn-primary">Yeni Personel Ekle</a>
